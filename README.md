@@ -14,15 +14,13 @@ A comprehensive UI/UX design project and interactive high-fidelity prototype for
 
 ## 🔗 Interactive Prototype Link
 
-You can explore the interactive high-fidelity prototype directly on Figma:
-- [Figma To-Do List Prototype](https://www.figma.com/design/uSguwkZSogSnyamcZ9z4T0/Untitled?node-id=0-1&t=8AHg2daxn28ZYdyN-1)
+[Figma To-Do List Prototype](https://www.figma.com/design/uSguwkZSogSnyamcZ9z4T0/Untitled?node-id=0-1&t=8AHg2daxn28ZYdyN-1)
 
 ---
 
 ## 📄 Project Documentation
 
-You can view or download the complete project report paper below:
-- [To-Do-List-UI-UX-Design-Prototype-Paper (PDF)](./To-Do-List-UI-UX-Design-Prototype-Paper.pdf)
+[To-Do-List-UI-UX-Design-Prototype-Paper (PDF)](./To-Do-List-UI-UX-Design-Prototype-Paper.pdf)
 
 ---
 
